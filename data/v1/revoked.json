@@ -1,5 +1,7 @@
 {
   "version": 1,
   "updated_at": "2026-03-31T03:06:45Z",
-  "revoked_hashes": []
+  "revoked_hashes": [
+    "b57e3d7570909cef6c5c2c853c3c3e3876900a1af77a1d5f16c2c5fb6d8328e5"
+  ]
 }
