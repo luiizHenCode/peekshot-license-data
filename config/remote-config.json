@@ -9,8 +9,8 @@
     "latest_version": "1.1.0",
     "minimum_supported_version": "1.1.0",
     "download_url": "https://seusite.com/peekshot.dmg",
-    "force_update": true,
-    "show_update_banner": true
+    "force_update": false,
+    "show_update_banner": false
   },
 
   "promotion": {
