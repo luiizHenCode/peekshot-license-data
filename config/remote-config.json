@@ -13,7 +13,7 @@
   },
 
   "promotion": {
-    "enabled": false,
+    "enabled": true,
     "title": "Launch Special",
     "discount_percent": 20,
     "coupon_code": "20OFF",
