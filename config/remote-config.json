@@ -2,13 +2,13 @@
   "version": 1,
   "updated_at": "2026-03-31T12:00:00Z",
 
-  "current_price": 15.99,
+  "current_price": 14.99,
 
   "updates": {
     "latest_version": "1.1.0",
-    "minimum_supported_version": "1.0.0",
+    "minimum_supported_version": "1.1.0",
     "download_url": "https://seusite.com/peekshot.dmg",
-    "force_update": false,
+    "force_update": true,
     "show_update_banner": true
   },
 
