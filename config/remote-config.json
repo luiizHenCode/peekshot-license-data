@@ -19,11 +19,11 @@
   },
 
   "feature_flags": {
-    "qr_code_enabled": true,
-    "ocr_enabled": true,
-    "imgur_upload_enabled": true,
-    "iphone_clipboard_capture_enabled": true,
-    "local_backup_enabled": true
+    "qr_code_enabled": false,
+    "ocr_enabled": false,
+    "imgur_upload_enabled": false,
+    "iphone_clipboard_capture_enabled": false,
+    "local_backup_enabled": false
   },
 
   "messages": {
