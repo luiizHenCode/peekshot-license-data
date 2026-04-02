@@ -6,11 +6,11 @@
   "store_link": "https://buy.stripe.com/28E7sM8B52ki8jQdes6sw00",
 
   "updates": {
-    "latest_version": "1.1.0",
-    "minimum_supported_version": "1.1.0",
-    "download_url": "https://seusite.com/peekshot.dmg",
+    "latest_version": "1.2.1",
+    "minimum_supported_version": "1.2.0",
+    "download_url": "https://getpeekshot.vercel.app/download/PeekShot-1.2.1.dmg",
     "force_update": false,
-    "show_update_banner": false
+    "show_update_banner": true
   },
 
   "promotion": {
